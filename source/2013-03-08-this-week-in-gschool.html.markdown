@@ -1,4 +1,8 @@
-<h1>This Week In gSchool</h1>
+---
+title: This week in gSchool...
+date: 2013-03-01 09:04 -07:00
+tags:
+---
 
 Now that Traffic Spy is complete, I feel proud of my work on the project. I feel like this is the hardest I have worked on a project yet. I spent pretty much every single day for the past two weeks at Galvanize working on code and style. I think my biggest contribution to this project were the database code (Sequel) and the style of the page. I really enjoyed making the page crazy and fun!
 
