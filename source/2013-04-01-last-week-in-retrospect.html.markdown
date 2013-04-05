@@ -11,3 +11,6 @@ Store Engine has been a great project so far. I have learned a lot about e-comme
 Working wit my group on the project has been an cool experience. I feel like the team I am on really tries to focus on getting things done correctly and makes sure that everyone understands what is going on. That patience is necessary to learn anything well and I think that it will pay off with as far as our understanding of rails goes. 
 
 There is a lot more work to do on Store Engine and I am enjoying "Don't Make Me Think" so it is safe to say that I am looking forward to this week!
+
+Programming Song of the Week: 
+Cascade (Original Mix) by Tommy Trash
