@@ -18,3 +18,5 @@ tags:
 
  It kind of reminds me of a relationship. If you start dating someone by embellishing certain traits or dressing up everytime you go out, that is not a good representation of who you are. Your relationship will be based on this person that is put together all of the time. In that type of situation, if someone really likes you, they really are falling in love with this fake ideal that you can never live up to. You are not your best self 100% of the time so stop trying to pretend you are. If you don't like wearing a suit, don't. If you hate corporate lingo, don't buy into it. I think that mentality is really interesting and so unique to programming. 
 
+ :-)
+
